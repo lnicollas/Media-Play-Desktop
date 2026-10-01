@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3654583b5ae8",
+    "filepath": "C:\\Users\\luizn\\OneDrive\\Imagens\\Documentos\\aaaa player\\storage\\media\\But-I-Do-Love-You-_ndoaF4UtNLI_.mp3",
+    "filename": "But-I-Do-Love-You-_ndoaF4UtNLI_.mp3",
+    "title": "But-I-Do-Love-You-_ndoaF4UtNLI_",
+    "artist": "Artista Desconhecido",
+    "album": "Album Desconhecido",
+    "year": "N/A",
+    "genre": "Genero Desconhecido",
+    "duration": 201,
+    "duration_str": "03:21",
+    "cover_path": "storage\\covers\\default_cover.png"
+  },
+  {
+    "id": "8eae7e120611",
+    "filepath": "C:\\Users\\luizn\\OneDrive\\Imagens\\Documentos\\aaaa player\\storage\\media\\The-Calling-Wherever-You-Will-Go-_Official-Video_-_iAP9AF6DCu4_.mp3",
+    "filename": "The-Calling-Wherever-You-Will-Go-_Official-Video_-_iAP9AF6DCu4_.mp3",
+    "title": "The-Calling-Wherever-You-Will-Go-_Official-Video_-_iAP9AF6DCu4_",
+    "artist": "Artista Desconhecido",
+    "album": "Album Desconhecido",
+    "year": "N/A",
+    "genre": "Genero Desconhecido",
+    "duration": 206,
+    "duration_str": "03:26",
+    "cover_path": "storage\\covers\\default_cover.png"
+  }
+]
